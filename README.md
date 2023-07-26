@@ -1,5 +1,5 @@
 # BT_LTNC_He2023
-<<<<<<< HEAD
+
 bài tập ở hackerank 
 =======
 Đề bài 1:https://docs.google.com/document/d/1rVNWS9yQvCd4p4t3nbYGp8nAHkd56B8brtiEVAepU78/edit
